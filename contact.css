@@ -1,0 +1,16 @@
+form{
+    border: solid 1px;
+    width: 800px;
+    margin-left: 450px;
+    background-color:aqua;
+    padding-left: 20px;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+    color: blanchedalmond;
+}
